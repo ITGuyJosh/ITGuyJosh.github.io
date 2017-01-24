@@ -9,7 +9,7 @@
 name: Josh
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://i.imgur.com/8JJZav3.png
@@ -58,7 +58,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:categories/:title/
+permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
